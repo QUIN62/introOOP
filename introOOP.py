@@ -33,10 +33,7 @@ class Persona:
         self.profesion = nueva_profesion
         print(f"{self.nombre} ahora trabaja como {self.profesion}")
 
-    # metodo pasar saludo
-    def pasar_saludo(self, nombreotrapersona):
-return f"Hola, {self.nombre}, te manda saludar {nombreotrapersona}
-print(persona1.saludarA(persona2.nombre)
+
 
 
 # Crear una instancia de la clase Persona
